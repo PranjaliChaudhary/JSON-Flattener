@@ -22,7 +22,6 @@ Naming convention for child elements becomes parent_child
               }
 }
 
-Please note that this is for representation only. Actual JSON should be single line.
 
 # Program output
 {"data_colors_color":"red","data_colors_hex":"ff0000","data_item_props_neat":"wow"} 
